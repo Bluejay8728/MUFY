@@ -1,0 +1,4 @@
+def say_hi(Marvin, Ben):
+    print(Marvin + "" + Ben)
+say_hi("Marvin")
+say_hi("Ben")
